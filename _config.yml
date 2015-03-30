@@ -1,0 +1,7 @@
+title: Folder Note
+description: Folder Note is a tool for iOS that helps you to manage your apps in iOS folders and get your content organized.
+baseurl: "/Folder-Note"
+url: "http://famer.github.io/"
+
+# Build settings
+markdown: kramdown
