@@ -6,7 +6,11 @@ appstoreLink: "http://ya.ru"
 hidden: true
 ---
 
-<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/folder-note-strict.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Folder Note.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Sea.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Gold.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Flame.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Dream.png){:.rounded .shadow width="100px"}</a>
 
 ### About
 

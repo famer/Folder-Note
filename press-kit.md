@@ -4,6 +4,7 @@ title: Press Kit
 permalink: /press-kit.html
 ---
 
+<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/folder-note-strict.png){:.rounded .shadow width="100px"}</a>
 <a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/folder-note-gold.png){:.rounded .shadow width="100px"}</a>
 
 ### Download a Press Kit
