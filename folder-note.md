@@ -40,6 +40,9 @@ Get your folders organized. `Folder Note` is a tool for iOS that helps you to ma
 - iPhone 5S/C
 - iPhone 6
 - iPhone 6 Plus
-- iPad / iPad Mini
+- iPhone 6s
+- iPhone 6s Plus
+- iPhone SE
+- iPad / iPad Mini / iPad Pro
 
 <a property="schema:url" content="{{ page.appstoreLink }}" href="{{ page.appstoreLink }}"><img src="{{ site.baseurl }}/images/App Store Badge/Download_on_the_App_Store_Badge_US-UK_135x40.png" /></a>
