@@ -2,15 +2,17 @@
 layout: page
 title: Folder Note
 permalink: /
-appstoreLink: "http://ya.ru"
+appstoreLink: "https://itunes.apple.com/us/app/folder-note/id961868178"
+seaAppstoreLink: "https://itunes.apple.com/us/app/folder-note-sea/id981909974"
+goldAppstoreLink: "https://itunes.apple.com/us/app/folder-note-gold/id981150947"
+flameAppstoreLink: "https://itunes.apple.com/us/app/folder-note-flame/id982515488"
 hidden: true
 ---
 
 <a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Folder Note.png){:.rounded .shadow width="100px"}</a>
-<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Sea.png){:.rounded .shadow width="100px"}</a>
-<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Gold.png){:.rounded .shadow width="100px"}</a>
-<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Flame.png){:.rounded .shadow width="100px"}</a>
-<a href="{{ page.appstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Dream.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.seaAppstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Sea.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.goldAppstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Gold.png){:.rounded .shadow width="100px"}</a>
+<a href="{{ page.flameAppstoreLink }}" property="schema:image">![{{ page.title }}]({{ site.baseurl }}/images/icons/Note Flame.png){:.rounded .shadow width="100px"}</a>
 
 ### About
 
