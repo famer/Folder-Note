@@ -8,7 +8,7 @@ permalink: /press-kit.html
 
 ### Download a Press Kit
 
-Here you can [download a Press Kit for Folder Note app](http://ya.ru) (zip 1.5 MB)
+Here you can [download a Press Kit for Folder Note app]({{ "/assets/Folder Note Press Kit 2015_03_15.zip" | prepend: site.baseurl }}) (zip 26.5 MB)
 
 ### Content
 
